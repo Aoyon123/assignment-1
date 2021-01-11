@@ -1,0 +1,109 @@
+body{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+}
+.fullpage{
+    background-image:url("");
+    background-repeat: no-repeat;
+}
+.half-division
+{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+}
+
+.coloring{
+    color:chocolate
+}
+
+.resume
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height:80%;
+    background-color: white;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    text-align: 25px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45 deg,lightSalmon,tomato);
+    background-color: rgb(255, 17, 0);
+    padding:10px 20px;
+    border-radius: 10px;
+    color:white;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.half-division img{
+    width:70%;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    float:right;
+    color: #f2f2f2;
+    text-align: right;
+    padding: 14px 16px;
+    font-size: 17px;
+  }
+
+
+  #gym
+  {
+      border-left: 3px solid;
+ 
+      border-image-slice:1;
+  
+  }
+
+  #agency
+{
+    border-left: 1px solid;
+  
+    border-image-slice:1;
+
+}
+
+#music
+{
+    border-left: 1px solid;
+   
+    border-image-slice:1;
+
+}
+
+.downwork4444
+{
+    
+    width:20%;
+    float:left;
+    margin-left:5%;
+    padding-left:2%;
+   box-shadow: 10px 10px 40px gray;
+   border-radius: 5px;
+    height:80%;
+    background-color: white;
+
+}
+.downwork {
+   overflow:hidden;
+    width: 30%;
+    float: left;
+    margin: 1px;
+    padding: 5px;
+  }
+
+  .last-banner{
+    background-color: whitesmoke;
